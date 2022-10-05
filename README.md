@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br>🌱I am a Front-End Developer working on UI/UX design and deployment<br> 🔭 I’m currently working on developing and esports website<br>🌱 <br>💬 Ask me about<br>⚡im from 🇳🇿
 
 
 ## 🌐 Socials:

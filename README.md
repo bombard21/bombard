@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I am a Front-End Developer working on UI/UX design and deployment<br> 🔭 I’m currently working on developing and esports website<br>💬 Ask me about<br>⚡im from 🇳🇿
+🌱I am a Front-End Developer working on UI/UX design and deployment<br> 🔭 I’m currently working on developing and esports website<br>💬 Ask me about<br>⚡im from 🏁
 
 
 ## 🌐 Socials:

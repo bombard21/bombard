@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bombard21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bombard21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=bombard21&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bombard21&langs_count=10&custom_title=All%20Time%20Stats&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=bombard21&icon=1&color=1)](https://visitcount.itsvg.in)
 
